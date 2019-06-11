@@ -16,3 +16,6 @@ public class Runner{
    		System.out.printf("%.3f", a/b );
 	}
 }
+
+//What Partner B Learned: I learned a lot about lambdas and making basically "anonymous classes". Along with this, I learned about using a different print function
+//that allowed me to display the print function exactly how I wanted. 
