@@ -16,3 +16,5 @@ public class Runner{
    		System.out.printf("%.3f", a/b );
 	}
 }
+//Partner A:I learned a lot about how GitKraken and Github works. I also figured out the idea of pushing and pulling and how when the project is pushed it cannot be reverted.
+//	This can help me work with other people in Github and be able to contribute to a main project. I also learnedd a little bit about lambda notation and its functions.
